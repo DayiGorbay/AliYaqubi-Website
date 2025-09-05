@@ -18,24 +18,14 @@
 
 ---
 
-## 🔗 با من در ارتباط باش
-<p align="center">
-  <a href="https://www.instagram.com/aliyaqubi88/">
-    <img src="https://s6.uupload.ir/files/instagram-brands-solid-full_dcep.png" alt="Instagram"/>
-  </a>
-  <a href="https://t.me/fooolsx/">
-    <img src="https://s6.uupload.ir/files/telegram-brands-solid-full_0r9v.png" alt="Telegram"/>
-  </a>
-  <a href="https://www.youtube.com/@DayiGorbay13/">
-    <img src="https://s6.uupload.ir/files/youtube-brands-solid-full_4ekd.png" alt="YouTube"/>
-  </a>
-  <a href="https://maliyaqubi.ir/">
-    <img src="https://img.shields.io/badge/Website-%2300CED1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="tel:+989150298062">
-    <img src="https://s6.uupload.ir/files/phone-solid-full_ak9v.png" alt="Call"/>
-  </a>
-</p>
+## 🔗 منوهای اجتماعی
+با من در شبکه‌های اجتماعی همراه باش 👇  
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aliyaqubi88/)
+[![Telegram](https://img.shields.io/badge/Telegram-%230088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fooolsx/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DayiGorbay13/)
+[![Website](https://img.shields.io/badge/Website-%2300BFA5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maliyaqubi.ir/)
+[![Phone](https://img.shields.io/badge/Phone-%239E9E9E?style=for-the-badge&logo=phone&logoColor=white)](tel:+989150298062)
 
 ---
 
