@@ -14,7 +14,7 @@
 ---
 
 ## 📸 پیش‌نمایش
-![Screenshot](https://via.placeholder.com/800x400.png?text=AliYaqubi+Website)
+![Screenshot](https://s6.uupload.ir/files/screenshot_(248)_fzuv.png)
 
 ---
 
