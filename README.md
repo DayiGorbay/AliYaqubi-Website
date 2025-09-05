@@ -14,7 +14,7 @@
 ---
 
 ## 📸 پیش‌نمایش
-![Screenshot](https://s6.uupload.ir/files/screenshot_(250)_htwr.png)
+![Screenshot](https://s6.uupload.ir/files/screenshot_(251)_s8do.png)
 
 ---
 
