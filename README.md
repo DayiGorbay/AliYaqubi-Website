@@ -1,4 +1,4 @@
-![Banner](https://s6.uupload.ir/files/bye_bye_kb2o.jpg)
+![Banner](https://s6.uupload.ir/files/aliyaqubi-banner_4z9b.png)
 # 🌐 AliYaqubi Website
 
 به ریپازیتوری پروژه وبسایت من خوش اومدی 🚀  
