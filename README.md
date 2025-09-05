@@ -19,31 +19,22 @@
 ---
 
 ## 🔗 با من در ارتباط باش
-<p align="center" style="font-size:30px;">
-  <a href="tel:+989150298062" target="_blank">
-    <i style="color:#27d32f;" class="fa-solid fa-phone"></i>
+<p align="center">
+  <a href="https://www.instagram.com/aliyaqubi88/">
+    <img src="https://s6.uupload.ir/files/instagram-brands-solid-full_dcep.png" alt="Instagram"/>
   </a>
-
-  <a href="https://github.com/DayiGorbay" target="_blank">
-    <i class="fa-brands fa-github"></i>
+  <a href="https://t.me/fooolsx/">
+    <img src="https://s6.uupload.ir/files/telegram-brands-solid-full_0r9v.png" alt="Telegram"/>
   </a>
-
-  <a href="https://www.youtube.com/@DayiGorbay13" target="_blank">
-    <i style="color:red;" class="fa fa-youtube"></i>
+  <a href="https://www.youtube.com/@DayiGorbay13/">
+    <img src="https://s6.uupload.ir/files/youtube-brands-solid-full_4ekd.png" alt="YouTube"/>
   </a>
-
-  <a href="https://t.me/fooolsx" target="_blank">
-    <i style="color:#24a1dd;" class="fa fa-telegram"></i>
+  <a href="https://maliyaqubi.ir/">
+    <img src="https://img.shields.io/badge/Website-%2300CED1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-
-  <a href="https://www.instagram.com/aliyaqubi88/" target="_blank">
-    <i style="background: rgb(196,0,255);
-              background: linear-gradient(188deg, rgba(196,0,255,1) 0%, rgba(255,0,0,1) 44%, rgba(255,248,0,1) 100%);
-              -webkit-background-clip: text;
-              -webkit-text-fill-color: transparent;"
-       class="fa fa-instagram"></i>
+  <a href="tel:+989150298062">
+    <img src="https://s6.uupload.ir/files/phone-solid-full_ak9v.png" alt="Call"/>
   </a>
-  <script src="https://kit.fontawesome.com/441cd47b02.js" crossorigin="anonymous"></script>
 </p>
 
 ---
