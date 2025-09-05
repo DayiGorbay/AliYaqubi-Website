@@ -19,23 +19,34 @@
 ---
 
 ## 🔗 با من در ارتباط باش
-<p align="center">
-  <a href="https://www.instagram.com/aliyaqubi88/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<p align="center" style="font-size:30px;">
+  <a href="tel:+989150298062" target="_blank">
+    <i style="color:#27d32f;" class="fa-solid fa-phone"></i>
   </a>
-  <a href="https://t.me/fooolsx/">
-    <img src="https://img.shields.io/badge/Telegram-%2300BFFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+
+  <a href="https://github.com/DayiGorbay" target="_blank">
+    <i class="fa-brands fa-github"></i>
   </a>
-  <a href="https://www.youtube.com/@DayiGorbay13/">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+
+  <a href="https://www.youtube.com/@DayiGorbay13" target="_blank">
+    <i style="color:red;" class="fa fa-youtube"></i>
   </a>
-  <a href="https://maliyaqubi.ir/">
-    <img src="https://img.shields.io/badge/Website-%2300CED1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+
+  <a href="https://t.me/fooolsx" target="_blank">
+    <i style="color:#24a1dd;" class="fa fa-telegram"></i>
   </a>
-  <a href="tel:+989150298062">
-    <img src="https://img.shields.io/badge/Call-%23008000?style=for-the-badge&logo=telephone&logoColor=white" alt="Call"/>
+
+  <a href="https://www.instagram.com/aliyaqubi88/" target="_blank">
+    <i style="background: rgb(196,0,255);
+              background: linear-gradient(188deg, rgba(196,0,255,1) 0%, rgba(255,0,0,1) 44%, rgba(255,248,0,1) 100%);
+              -webkit-background-clip: text;
+              -webkit-text-fill-color: transparent;"
+       class="fa fa-instagram"></i>
   </a>
 </p>
+
+
+<script src="https://kit.fontawesome.com/441cd47b02.js" crossorigin="anonymous"></script>
 
 
 ---
