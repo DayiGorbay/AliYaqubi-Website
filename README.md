@@ -21,19 +21,19 @@
 ## 🔗 منوهای اجتماعی
 با من در شبکه‌های اجتماعی همراه باش 👇  
 
-<a href="https://www.instagram.com/aliyaqubi88/">
+<a href="https://www.instagram.com/aliyaqubi88/" target="_blank">
   <img src="https://s6.uupload.ir/files/instagram-brands-solid-full_dcep.png" width="40"/>
 </a>
-<a href="https://t.me/fooolsx/">
+<a href="https://t.me/fooolsx/" target="_blank">
   <img src="https://s6.uupload.ir/files/telegram-brands-solid-full_0r9v.png" width="40"/>
 </a>
-<a href="https://www.youtube.com/@DayiGorbay13/">
+<a href="https://www.youtube.com/@DayiGorbay13/" target="_blank">
   <img src="https://s6.uupload.ir/files/youtube-brands-solid-full_4ekd.png" width="40"/>
 </a>
-<a href="https://maliyaqubi.ir/">
+<a href="https://maliyaqubi.ir/" target="_blank">
   <img src="https://s6.uupload.ir/files/phone-solid-full_ak9v.png" width="40"/>
 </a>
-<a href="tel:+989150298062">
+<a href="tel:+989150298062" target="_blank">
   <img src="https://s6.uupload.ir/files/phone-solid-full_ak9v.png" width="40"/>
 </a>
 
