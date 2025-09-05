@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/1000x250.png?text=AliYaqubi+Website)
+![Banner](https://s6.uupload.ir/files/bye_bye_kb2o.jpg)
 # 🌐 AliYaqubi Website
 
 به ریپازیتوری پروژه وبسایت من خوش اومدی 🚀  
