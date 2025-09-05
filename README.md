@@ -1,3 +1,4 @@
+![Banner](https://via.placeholder.com/1000x250.png?text=AliYaqubi+Website)
 # 🌐 AliYaqubi Website
 
 به ریپازیتوری پروژه وبسایت من خوش اومدی 🚀  
