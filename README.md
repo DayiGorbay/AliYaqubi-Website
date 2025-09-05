@@ -15,6 +15,13 @@
 
 ---
 
+## 📊 وضعیت پروژه
+![GitHub repo size](https://img.shields.io/github/repo-size/DayiGorbay/AliYaqubi-Website?style=for-the-badge&color=blue) 
+![GitHub last commit](https://img.shields.io/github/last-commit/DayiGorbay/AliYaqubi-Website?style=for-the-badge&color=green) 
+![GitHub license](https://img.shields.io/github/license/DayiGorbay/AliYaqubi-Website?style=for-the-badge&color=orange)
+
+---
+
 ## 📸 پیش‌نمایش
 ![Screenshot](https://s6.uupload.ir/files/screenshot_(248)_fzuv.png)
 
