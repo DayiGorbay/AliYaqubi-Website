@@ -43,11 +43,8 @@
               -webkit-text-fill-color: transparent;"
        class="fa fa-instagram"></i>
   </a>
+  <script src="https://kit.fontawesome.com/441cd47b02.js" crossorigin="anonymous"></script>
 </p>
-
-
-<script src="https://kit.fontawesome.com/441cd47b02.js" crossorigin="anonymous"></script>
-
 
 ---
 
