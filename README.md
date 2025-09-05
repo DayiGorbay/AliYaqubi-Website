@@ -18,13 +18,24 @@
 
 ---
 
-## 🔗 منوهای اجتماعی
-با من در شبکه‌های اجتماعی همراه باش 👇  
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/DayiGorbay) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DayiGorbay) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DayiGorbay) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DayiGorbay)
+## 🔗 با من در ارتباط باش
+<p align="center">
+  <a href="https://www.instagram.com/aliyaqubi88/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://t.me/fooolsx/">
+    <img src="https://img.shields.io/badge/Telegram-%2300BFFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.youtube.com/@DayiGorbay13/">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://maliyaqubi.ir/">
+    <img src="https://img.shields.io/badge/Website-%2300CED1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="tel:+989150298062">
+    <img src="https://img.shields.io/badge/Call-%23008000?style=for-the-badge&logo=telephone&logoColor=white" alt="Call"/>
+  </a>
+</p>
 
 
 ---
