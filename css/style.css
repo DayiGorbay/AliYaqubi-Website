@@ -350,15 +350,15 @@ footer ul a {
 }
 
 .bg-pr {
-    background-color: #31a8ff;
+    background-color: #9999ff;
 }
 
-.bg-lua {
-    background-color: #000080;
+.bg-flutter {
+    background-color: rgba(19,185,253,1);
 }
 
-.bg-cs {
-    background-color: #6a1577;
+.bg-aspnet {
+    background-color: #0079c1;
 }
 
 
